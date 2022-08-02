@@ -1,0 +1,15 @@
+{
+  "enabled": false,
+  "doBackup": false,
+  "message": "This server is currently in maintenance mode! Please check back later",
+  "allowedUsers": [
+    {
+      "name": "Elderweiss",
+      "uuid": "045d0096-ef88-4e94-9121-8f3fb59da7ca"
+    },
+    {
+      "name": "Teltboy",
+      "uuid": "847a98ed-18cb-4bc9-aa04-527eebca3e1e"
+    }
+  ]
+}

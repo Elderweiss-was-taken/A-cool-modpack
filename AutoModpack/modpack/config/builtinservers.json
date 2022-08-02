@@ -1,0 +1,10 @@
+{
+  "badgeVisible": false,
+  "builtinServers": [
+    {
+      "name": "If using AZERTY->change/set controls keybinds of 'Xaero's WorldMap - Open World Map' to 'm' or another key",
+      "address": "",
+      "forced": false
+    }
+  ]
+}

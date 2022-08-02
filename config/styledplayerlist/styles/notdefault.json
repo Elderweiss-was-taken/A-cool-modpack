@@ -1,0 +1,18 @@
+{
+  "id": "notdefault",
+  "name": "NotDefault",
+  "header": [
+    "",
+    "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#555555>%server:online%<color:#555555> </color>online</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
+    ""
+  ],
+  "footer": [
+    "",
+    "<color:#555555><strikethrough>                          </strikethrough></color>",
+    "",
+    "<gray>TPS: %server:tps_colored% <dark_gray>|</dark_gray> <gray>Ping: <color:#ffba26>%player:ping%</color>",
+    ""
+  ],
+  "hidden": false,
+  "permission": ""
+}
